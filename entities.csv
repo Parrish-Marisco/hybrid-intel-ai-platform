@@ -1,0 +1,13 @@
+entity_id,name,type,threat_score,confidence,mentions,last_seen,primary_location,linked_actor,status,lat,lon,first_seen
+1,Amadou Diallo,Person,0.83,High,8,2026-03-31,Bamako,True,Escalating,12.6392,-8.0029,2026-03-04
+2,Sahel Transit Network,Group,0.79,High,7,2026-03-31,Gao,True,Escalating,16.2667,-0.05,2026-03-06
+3,Warehouse 17,Location,0.67,Medium,5,2026-03-29,Bamako,False,Watch,12.63,-8.015,2026-03-11
+4,Mopti Facilitation Cell,Group,0.73,Medium,6,2026-03-30,Mopti,True,Watch,14.4843,-4.1829,2026-03-08
+5,Niger Corridor Node,Location,0.76,High,6,2026-03-31,Niger Border,True,Escalating,15.05,1.1,2026-03-09
+6,Oumar Keita,Person,0.71,Medium,5,2026-03-30,Gao,True,Watch,16.27,-0.06,2026-03-10
+7,Fuel Broker A,Person,0.62,Medium,4,2026-03-27,Bamako,False,Monitor,12.65,-8.01,2026-03-14
+8,Northern Supply Route,Location,0.58,Low,3,2026-03-26,Gao,False,Monitor,16.35,-0.2,2026-03-16
+9,Courier Red,Person,0.56,Low,3,2026-03-25,Mopti,False,Monitor,14.49,-4.19,2026-03-18
+10,Customs Liaison B,Person,0.69,Medium,4,2026-03-29,Bamako,True,Watch,12.641,-8.0055,2026-03-12
+11,Transit Yard East,Location,0.64,Medium,4,2026-03-28,Gao,False,Monitor,16.28,-0.04,2026-03-13
+12,Regional Support Node,Group,0.74,High,6,2026-03-31,Mopti,True,Escalating,14.5,-4.175,2026-03-07

@@ -1,0 +1,19 @@
+report_id,date,source_type,confidence,location,excerpt,entities,relevance
+HUMINT-101,2026-03-22,HUMINT,Medium,Bamako,Source reported Amadou Diallo coordinating transport timing with a logistics intermediary near a commercial storage district.,Amadou Diallo|Warehouse 17|Bamako,High
+OSINT-102,2026-03-23,OSINT,Low,Gao,Regional reporting referenced increased after-hours truck movement near a known transit yard.,Sahel Transit Network|Transit Yard East|Gao,Medium
+TECHINT-103,2026-03-24,TECHINT,High,Mopti,Pattern analysis identified recurring communications between a facilitation cell and an external support node.,Mopti Facilitation Cell|Regional Support Node|Mopti,High
+HUMINT-104,2026-03-24,HUMINT,High,Niger Border,A source described route preparation activity and short-duration meetings near an informal crossing point.,Niger Corridor Node|Sahel Transit Network|Niger Border,High
+OSINT-105,2026-03-25,OSINT,Medium,Bamako,Open reporting noted unusual fuel purchases connected to late-night transport activity.,Fuel Broker A|Amadou Diallo|Bamako,Medium
+TECHINT-106,2026-03-25,TECHINT,Medium,Gao,Device metadata associated Oumar Keita with repeated movement between a transit yard and a route staging area.,Oumar Keita|Transit Yard East|Northern Supply Route,High
+HUMINT-107,2026-03-26,HUMINT,Low,Mopti,Single-source reporting placed Courier Red in contact with facilitators handling short-notice deliveries.,Courier Red|Mopti Facilitation Cell|Mopti,Low
+OSINT-108,2026-03-27,OSINT,Medium,Gao,Local reporting referenced commercial cover activity supporting a broader transit network.,Sahel Transit Network|Oumar Keita|Gao,Medium
+TECHINT-109,2026-03-27,TECHINT,High,Bamako,Communications pattern analysis indicated synchronization between a customs-linked contact and warehouse operations.,Customs Liaison B|Warehouse 17|Bamako,High
+HUMINT-110,2026-03-28,HUMINT,Medium,Bamako,Source reported Amadou Diallo meeting with a fuel broker prior to a suspected transfer window.,Amadou Diallo|Fuel Broker A|Bamako,Medium
+TECHINT-111,2026-03-28,TECHINT,High,Niger Border,Movement indicators suggested the route node was active during a narrow overnight window.,Niger Corridor Node|Northern Supply Route|Niger Border,High
+OSINT-112,2026-03-29,OSINT,Medium,Mopti,Regional media referenced increased facilitation activity tied to a support network in Mopti.,Mopti Facilitation Cell|Regional Support Node|Mopti,Medium
+HUMINT-113,2026-03-29,HUMINT,High,Gao,A source placed Oumar Keita in a coordination meeting with members of the Sahel Transit Network.,Oumar Keita|Sahel Transit Network|Gao,High
+TECHINT-114,2026-03-30,TECHINT,High,Bamako,"Cross-device correlations linked warehouse activity, customs facilitation, and a principal coordinator.",Amadou Diallo|Customs Liaison B|Warehouse 17,High
+OSINT-115,2026-03-30,OSINT,Low,Gao,Open reporting noted increased commercial traffic along the northern supply route.,Northern Supply Route|Transit Yard East|Gao,Low
+HUMINT-116,2026-03-31,HUMINT,High,Niger Border,Source reported a short-duration leadership meeting focused on corridor timing and border movement.,Amadou Diallo|Sahel Transit Network|Niger Corridor Node,High
+TECHINT-117,2026-03-31,TECHINT,High,Mopti,Communications mapping linked the regional support node to multiple facilitation events over the last week.,Regional Support Node|Mopti Facilitation Cell|Courier Red,High
+OSINT-118,2026-03-31,OSINT,Medium,Bamako,Local commercial reporting referenced unusual procurement behavior by a fuel broker tied to logistics movements.,Fuel Broker A|Customs Liaison B|Bamako,Medium
