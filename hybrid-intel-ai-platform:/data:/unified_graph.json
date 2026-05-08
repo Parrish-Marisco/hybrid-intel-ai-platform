@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "id": "Amadou Diallo",
+      "type": "Person",
+      "threat_score": 0.83
+    },
+    {
+      "id": "Sahel Transit Network",
+      "type": "Group",
+      "threat_score": 0.79
+    },
+    {
+      "id": "Warehouse 17",
+      "type": "Location",
+      "threat_score": 0.67
+    },
+    {
+      "id": "Mopti Facilitation Cell",
+      "type": "Group",
+      "threat_score": 0.73
+    },
+    {
+      "id": "Niger Corridor Node",
+      "type": "Location",
+      "threat_score": 0.76
+    },
+    {
+      "id": "Oumar Keita",
+      "type": "Person",
+      "threat_score": 0.71
+    },
+    {
+      "id": "Fuel Broker A",
+      "type": "Person",
+      "threat_score": 0.62
+    },
+    {
+      "id": "Northern Supply Route",
+      "type": "Location",
+      "threat_score": 0.58
+    },
+    {
+      "id": "Courier Red",
+      "type": "Person",
+      "threat_score": 0.56
+    },
+    {
+      "id": "Customs Liaison B",
+      "type": "Person",
+      "threat_score": 0.69
+    },
+    {
+      "id": "Transit Yard East",
+      "type": "Location",
+      "threat_score": 0.64
+    },
+    {
+      "id": "Regional Support Node",
+      "type": "Group",
+      "threat_score": 0.74
+    }
+  ],
+  "edges": [
+    {
+      "source": "Amadou Diallo",
+      "target": "Sahel Transit Network",
+      "relationship": "coordinates_with"
+    },
+    {
+      "source": "Amadou Diallo",
+      "target": "Warehouse 17",
+      "relationship": "uses_site"
+    },
+    {
+      "source": "Amadou Diallo",
+      "target": "Fuel Broker A",
+      "relationship": "financial_link"
+    },
+    {
+      "source": "Amadou Diallo",
+      "target": "Customs Liaison B",
+      "relationship": "facilitated_by"
+    },
+    {
+      "source": "Sahel Transit Network",
+      "target": "Niger Corridor Node",
+      "relationship": "uses_route"
+    },
+    {
+      "source": "Sahel Transit Network",
+      "target": "Transit Yard East",
+      "relationship": "operates_near"
+    },
+    {
+      "source": "Sahel Transit Network",
+      "target": "Oumar Keita",
+      "relationship": "associated_with"
+    },
+    {
+      "source": "Mopti Facilitation Cell",
+      "target": "Regional Support Node",
+      "relationship": "coordinates_with"
+    },
+    {
+      "source": "Courier Red",
+      "target": "Mopti Facilitation Cell",
+      "relationship": "supports"
+    },
+    {
+      "source": "Oumar Keita",
+      "target": "Northern Supply Route",
+      "relationship": "moves_along"
+    },
+    {
+      "source": "Warehouse 17",
+      "target": "Bamako",
+      "relationship": "located_in"
+    },
+    {
+      "source": "Transit Yard East",
+      "target": "Gao",
+      "relationship": "located_in"
+    },
+    {
+      "source": "Niger Corridor Node",
+      "target": "Niger Border",
+      "relationship": "located_in"
+    },
+    {
+      "source": "Fuel Broker A",
+      "target": "Bamako",
+      "relationship": "reported_in"
+    },
+    {
+      "source": "Customs Liaison B",
+      "target": "Warehouse 17",
+      "relationship": "linked_to"
+    },
+    {
+      "source": "Regional Support Node",
+      "target": "Mopti",
+      "relationship": "reported_in"
+    }
+  ]
+}

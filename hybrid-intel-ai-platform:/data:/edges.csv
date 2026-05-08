@@ -1,0 +1,17 @@
+source,target,relationship,weight
+Amadou Diallo,Sahel Transit Network,coordinates_with,0.92
+Amadou Diallo,Warehouse 17,uses_site,0.86
+Amadou Diallo,Fuel Broker A,financial_link,0.73
+Amadou Diallo,Customs Liaison B,facilitated_by,0.81
+Sahel Transit Network,Niger Corridor Node,uses_route,0.9
+Sahel Transit Network,Transit Yard East,operates_near,0.77
+Sahel Transit Network,Oumar Keita,associated_with,0.84
+Mopti Facilitation Cell,Regional Support Node,coordinates_with,0.88
+Courier Red,Mopti Facilitation Cell,supports,0.66
+Oumar Keita,Northern Supply Route,moves_along,0.71
+Warehouse 17,Bamako,located_in,0.95
+Transit Yard East,Gao,located_in,0.95
+Niger Corridor Node,Niger Border,located_in,0.96
+Fuel Broker A,Bamako,reported_in,0.82
+Customs Liaison B,Warehouse 17,linked_to,0.79
+Regional Support Node,Mopti,reported_in,0.87

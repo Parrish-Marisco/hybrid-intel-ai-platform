@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.python-version
+
+.venv/
+venv/
+env/
+ENV/
+
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+
+.streamlit/
+
+# Ignore generated output by default
+output/*
+
+# Keep the main demo artifact
+!output/unified_graph_ai.json
