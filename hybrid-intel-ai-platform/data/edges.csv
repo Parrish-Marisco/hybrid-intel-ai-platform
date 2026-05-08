@@ -1,0 +1,17 @@
+source,target,relationship,weight
+Ibrahim Traore,Sahel Transit Network,linked_to,0.90
+Ibrahim Traore,Niger Corridor Facilitators,coordinates_with,0.85
+Ibrahim Traore,Bamako,reported_in,0.80
+Sahel Transit Network,Gao,operates_in,0.85
+Unknown Logistics Cell,Sahel Transit Network,affiliated_with,0.75
+Unknown Logistics Cell,Gao,operates_near,0.70
+Amadou Sanogo,Northern Supply Coordinators,leads,0.88
+Amadou Sanogo,Mopti,reported_in,0.82
+Northern Supply Coordinators,Cellular Tower MOPTI-04,uses,0.65
+Hassan Kone,Sahel Transit Network,met_with,0.78
+Hassan Kone,Gao,reported_in,0.70
+Niger Corridor Facilitators,Crossing Point N-3,operates_at,0.80
+Niger Corridor Facilitators,Niger Border,operates_in,0.78
+Route Node K-12,Niger Border,located_in,0.95
+Fatou Diakite,Bamako,reported_in,0.60
+Compound BMK-7,Bamako,located_in,0.95
