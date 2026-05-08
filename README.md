@@ -1,6 +1,6 @@
 # Hybrid Intelligence Analysis Platform
 
-AI-enriched intelligence analysis platform with graph generation, anomaly scoring, and a Streamlit decision-support dashboard. Pluggable LLM backend (Claude / OpenAI / heuristic) and force-directed link analysis.
+Built and deployed an AI-enriched intelligence fusion platform (HUMINT/OSINT/TECHINT) with graph generation, anomaly scoring, a Streamlit decision-support dashboard, and a Pluggable LLM backend (Claude / OpenAI / heuristic) with force-directed link analysis. — live at [https://hybrid-intel-ai-platform-fmjremcwjnqe8s433mjylu.streamlit.app/] · [GitHub URL].
 
 > **Modeling Decision-Making Under Uncertainty Using Hybrid Intelligence Signals**
 
